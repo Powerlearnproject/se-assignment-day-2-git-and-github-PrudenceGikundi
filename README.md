@@ -137,7 +137,7 @@ A pull request (PR) is a way that GitHub allows developers to submit changes to 
 1. Push your branch to GitHub:
    ```bash
    git push origin <branch_name>
-```
+   ```
 2. Go to the repository and click **Pull Request.**
 3. Provide a title and description for the changes.
 4. Assign reviews to be approved by members.
